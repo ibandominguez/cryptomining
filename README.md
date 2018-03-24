@@ -1,0 +1,2 @@
+# cryptomining
+Cryptomining Resources
